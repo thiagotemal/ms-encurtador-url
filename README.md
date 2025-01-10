@@ -12,7 +12,7 @@ O URL Shortener é um projeto que visa criar um serviço de encurtamento de URLs
 * **Java**: A linguagem de programação utilizada para desenvolver o projeto.
 * **Spring Boot**: O framework utilizado para criar a aplicação web.
 * **MongoDB**: O banco de dados utilizado para armazenar as URLs.
-
+* **Testcontainers**: Para testar integração com MongoDB
 ## Como Utilizar
 
 **Pré-requisitos**
